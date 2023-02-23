@@ -1,5 +1,5 @@
 # ImageToASCII
 Transform an image to ASCII
-## 🖼️ = ¯\_(ツ)_/¯
+## 🖼️ =  ¯|_(ツ)_/¯
 
-link: 
+link: erickcestari.github.io/ImageToASCII/
